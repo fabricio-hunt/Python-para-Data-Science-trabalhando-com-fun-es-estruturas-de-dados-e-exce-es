@@ -1,0 +1,2 @@
+# Python-para-Data-Science-trabalhando-com-fun-es-estruturas-de-dados-e-exce-es
+Entenda as funções das bibliotecas e pacotes na linguagem Python Conheça as built-in functions e suas utilidades Crie funções personalizadas Trabalhe com estruturas de dados compostas e aninhadas Construa listas e dicionários seguindo padrões por meio de list e dict comprehension Diferencie os tipos de erros e exceções em códigos Python 
